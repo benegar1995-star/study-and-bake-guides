@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://benegar1995-star.github.io/study-and-bake-guides/sitemap.xml
